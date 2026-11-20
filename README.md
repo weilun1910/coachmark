@@ -2,7 +2,9 @@
 
 # Coachmark
 
-**This repo is a proof of concept.** The best way to see it is the live demo:
+**Proof of concept.** I use it myself, but it isn't fully developed yet.
+
+The best way to see it is the live demo:
 
 ### [Try the demo: background-ai-coach.vercel.app](https://background-ai-coach.vercel.app)
 
